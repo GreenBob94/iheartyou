@@ -7,7 +7,7 @@ input.onButtonPressed(Button.A, function () {
         . # # # .
         . . # . .
         `)
-    basic.showString("Ruby")
+    basic.showString("[name]")
 })
 input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Heart)
